@@ -9,3 +9,5 @@ def validate_positive_integers(self, input_list):
             valid_int.append(int(item))
     return valid_int
 
+def display(self):
+    print("Validation Complete")

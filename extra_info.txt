@@ -1,0 +1,3 @@
+UserInputValidator is a class that validates user inputs to check if they are valid positive integers. 
+It contains a functionality of accepting a list of strings, validating and returing a list of valid positive integers
+It also includes a method for confirmation when the validation is done. 
